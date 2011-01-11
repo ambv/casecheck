@@ -13,10 +13,10 @@ Why convert to a case-insensitive file system
 ---------------------------------------------
 
 This applies to Mac OS X where HFS+ can be formatted both in a case-sensitive
-and a case-insensitive manner. The latter option appeals Unix-junkies like me,
-whereas the former is the default. That means occasionally strange things happen
+and a case-insensitive manner. The former option appeals Unix-junkies like me,
+whereas the latter is the default. That means occasionally strange things happen
 when someone develops an application in a sloppy manner in regard to cases in
-paths. List of problems include:
+paths.  List of problems include:
 
 * Pro Applications Update 2008-05 hangs in Software Update forever
 
